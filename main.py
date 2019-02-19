@@ -11,7 +11,7 @@ from linebot.models import (
 )
 import os
 
-app = Flask(__name__)i
+app = Flask(__name__)
 
 #環境変数取得
 YOUR_CHANNEL_ACCESS_TOKEN = os.environ["wLNBgYDgXqPR0Lw+smPNBJ9ToSx4NQnJgbJuCt7UYvl3tItaT2zELErsn/vXExcuV6YNbi6Ni0hxjzlwQtTk5XlT3CqaYd2eFOs2DbOHPWsFVQx+WmZD2phYS3dUusRob8IH+UpDFQk0pl0JDh30cwdB04t89/1O/w1cDnyilFU="]
